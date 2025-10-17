@@ -1,24 +1,13 @@
-\# Titolo della nota
-
-
+# Titolo della nota
 
 ---
-
-
-
 Ciao questa è una nota in Markdown
-
-
 
 Questa è una lista semplice:
 
 * uno
 * due
 * tre
-
-
-
-
 
 Questa è una lista numerata:
 
@@ -30,13 +19,11 @@ Questa è una lista numerata:
 
 Questa è una tabella
 
-
-
 | Nome | Cognome | Mail |
-
+| ---- | ------- | ---- |
 | Luca | Sacchi | luca.sacchi@gmail.com|
 
 
 
-Questo è un link \[testo-desc-del-link](https://google.com)
+Questo è un link [testo-desc-del-link](https://google.com)
 
